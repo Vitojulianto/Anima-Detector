@@ -48,7 +48,7 @@ function Ai() {
             </h1>
 
             <p className="text-lg text-gray-700 italic mb-6 max-w-xl">
-                Kamera ini akan mencoba menebak apakah kamu menunjukkan anjing, kucing, atau hewan lucu lainnya... secara real-time!
+                This camera will try to predict what animal is this in real time
             </p>
 
             <div className="mb-6 border-4 border-purple-300 rounded-xl overflow-hidden shadow-lg">
@@ -60,7 +60,7 @@ function Ai() {
             </h2>
 
             <p className="mt-4 text-sm text-gray-600">
-                {"(Coba gerakkan gambar atau hewan ke kamera 👀)"}
+                {"(Try to move the picture to the camera 👀)"}
             </p>
         </div>
 
